@@ -1,4 +1,4 @@
-# Hi 👋 I’m a Cloud & Migration Consultant (Azure)
+# Cloud Consultant (Azure)
 
 I support **large-scale Azure migrations** end-to-end—discovery and readiness through cutover execution. I also build **Python scripts** to automate reporting, clean inventory data, and reduce repetitive coordination work. Recently, I’ve been exploring **AI tools** (including local deployments) to accelerate documentation, analysis, and delivery workflows.
 
@@ -27,3 +27,4 @@ I support **large-scale Azure migrations** end-to-end—discovery and readiness 
 
 ## Interests
 Cloud infrastructure • automation • AI tooling • sports • gaming • travel
+
