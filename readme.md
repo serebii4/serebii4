@@ -1,11 +1,10 @@
-
 <div align="center">
   <h1 style="margin-bottom: 6px;">☁️ Cloud Consultant (Azure)</h1>
   <p style="max-width: 880px; margin: 0 auto; line-height: 1.65;">
     Cloud consultant with <b>3 years of experience</b> supporting <b>large-scale Azure migrations</b> end-to-end — discovery and readiness through cutover execution.
     I build <b>Python automation</b> for reporting + inventory cleanup, and explore <b>AI tooling</b> to accelerate delivery workflows.
   </p>
-  <p style="margin-top: 12px;">
+  <p style="margin-top: 8px;">
     <img alt="Azure" src="https://img.shields.io/badge/Azure-Migrations-2F6FED?logo=microsoftazure&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white" />
     <img alt="AZ-900" src="https://img.shields.io/badge/AZ--900-Certified-22C55E" />
@@ -15,8 +14,8 @@
 <br/>
 <table width="100%">
   <tr>
-    <td width="60%" valign="top" style="padding-right: 14px;">
-<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 16px;">
+    <td width="50%" valign="top" style="padding-right: 12px;">
+<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 8px;">
   <h2 style="margin: 0 0 10px;">🧭 Core Focus</h2>
   <ul style="margin: 0; padding-left: 18px; line-height: 1.6;">
     <li><b>Azure migration delivery:</b> wave planning, readiness gates, change coordination, cutover execution</li>
@@ -25,33 +24,26 @@
     <li><b>Operational enablement:</b> runbooks, SOPs, onboarding guides, monitoring/readiness checklists, clean handoffs</li>
     <li><b>Program coordination:</b> align engineering, PMO, infrastructure, app owners, vendors across time zones</li>
     <li><b>Reporting & tracking:</b> durable trackers, dashboards, executive summaries to improve decision-making</li>
+    <li><b>Stakeholder communications:</b> concise status updates, executive-ready summaries, and expectation management</li>
     <li><b>Python scripting & automation:</b> parse/clean exports (CSV/RVTools), validate inventories, automate status reporting</li>
   </ul>
 </div>
-<br/>
-<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 16px;">
-  <h2 style="margin: 0 0 10px;">🛠️ What I Build</h2>
-  <ul style="margin: 0; padding-left: 18px; line-height: 1.6;">
-    <li>Small Python tools to clean exports, normalize fields, and spot inventory gaps</li>
-    <li>Repeatable trackers/dashboards that stay useful across waves (not week-one-only)</li>
-    <li>Runbooks + checklists that reduce bridge chaos and speed handoffs</li>
-  </ul>
-</div>
     </td>
-    <td width="40%" valign="top" style="padding-left: 14px;">
-<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 16px;">
+    <td width="50%" valign="top" style="padding-left: 12px;">
+<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 8px;">
   <h2 style="margin: 0 0 10px;">🧰 Skills & Tools</h2>
-
   <p style="margin: 0 0 10px; line-height: 1.6;">
     <b>Cloud</b><br/>
     Azure migrations • readiness planning • wave management
   </p>
-
   <p style="margin: 0 0 10px; line-height: 1.6;">
     <b>Infrastructure</b><br/>
     VLAN analysis • gateway cutovers • troubleshooting
   </p>
-
+  <p style="margin: 0 0 10px; line-height: 1.6;">
+    <b>Automation & Scripting</b><br/>
+    Python • Bash • SQL • inventory cleanup (CSV/RVTools) • normalization/validation • reporting automation
+  </p>
   <p style="margin: 0 0 10px; line-height: 1.6;">
     <b>Tools</b><br/>
     vCenter • RVTools • ServiceNow • Advanced Excel
@@ -65,22 +57,12 @@
     AZ-900 • <i>AZ-104 (in progress)</i>
   </p>
 </div>
-<br/>
-<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 16px;">
-  <h2 style="margin: 0 0 10px;">✅ Working Style</h2>
-  <ul style="margin: 0; padding-left: 18px; line-height: 1.6;">
-    <li>Clear status, clear owners, no mystery meat timelines</li>
-    <li>Bias toward checklists + repeatability</li>
-    <li>Fast triage under pressure during cutovers</li>
-  </ul>
-</div>
     </td>
   </tr>
 </table>
-<br/>
-<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 16px;">
-  <h2 style="margin: 0 0 10px;">🎮 Interests</h2>
-  <p style="margin: 0; line-height: 1.7;">
+<div style="border: 1px solid #d0d7de; border-radius: 16px; padding: 5px 12px;">
+  <h2 style="margin: 0 0 6px;">🎮 Interests</h2>
+  <p style="margin: 0; line-height: 1.6;">
     Cloud infrastructure • automation • AI tooling • sports • gaming • travel
   </p>
 </div>
