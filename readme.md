@@ -1,6 +1,6 @@
 # Cloud Consultant (Azure)
 
-I support **large-scale Azure migrations** end-to-end—discovery and readiness through cutover execution. I also build **Python scripts** to automate reporting, clean inventory data, and reduce repetitive coordination work. Recently, I’ve been exploring **AI tools** (including local deployments) to accelerate documentation, analysis, and delivery workflows.
+Cloud consultant with **3 years of experience** supporting **large-scale Azure migrations** end-to-end—discovery and readiness through cutover execution. I also build **Python scripts** to automate reporting, clean inventory data, and reduce repetitive coordination work. Recently, I’ve been exploring **AI tools** (including local deployments) to accelerate documentation, analysis, and delivery workflows.
 
 ---
 
@@ -13,7 +13,6 @@ I support **large-scale Azure migrations** end-to-end—discovery and readiness 
 - **Reporting & tracking:** building durable tracking mechanisms, dashboards, and executive summaries to improve data quality and decision-making  
 - **Python scripting & automation:** building small tools to parse/clean exports (CSV/RVTools), validate inventories, automate status reporting, and reduce repetitive coordination work
 
-
 ---
 
 ## Skills & Tools
@@ -21,10 +20,9 @@ I support **large-scale Azure migrations** end-to-end—discovery and readiness 
 **Infrastructure:** VLAN analysis, gateway cutovers, troubleshooting  
 **Tools:** vCenter, RVTools, ServiceNow, Advanced Excel  
 **AI/LLMs:** ChatGPT, Gemini, Claude, z.ai, local model deployments, prompt engineering  
-**Certification:** AZ-900 (Microsoft Azure Fundamentals)
+**Certifications:** AZ-900 • **AZ-104 (in progress)**
 
 ---
 
 ## Interests
 Cloud infrastructure • automation • AI tooling • sports • gaming • travel
-
